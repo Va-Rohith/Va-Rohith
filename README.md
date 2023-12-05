@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 </br>
 
-<img align="right" alt="Coding" width=400 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width=400 height=380 src="templates/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=va-rohith&label=Profile%20views&color=0e75b6&style=flat" alt="va-rohith" /> </p>
 <br />
@@ -22,6 +22,8 @@
 - 👨‍💻 Explore my projects [here](https://linktr.ee/rohith.projects)
 
 </div>
+
+<br />
 
 <div align="center"> 
   <a href="https://linkedin.com/in/rohith-vankayalapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohith-vankayalapati" height="30" width="40" /></a>
