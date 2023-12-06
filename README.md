@@ -101,3 +101,11 @@
 </div>
 
 <hr />
+
+<div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/va-rohith/va-rohith/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div>
