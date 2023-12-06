@@ -4,9 +4,7 @@
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 </br>
 
-<img align="right" alt="Coding" width=400 height=410 src="templates/gif3.gif">
-
-</br></br>
+<img align="right" alt="Coding" width=400 height=390 src="templates/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=va-rohith&label=Profile%20views&color=blueviolet&style=plastic" width=150 alt="va-rohith" /> </p>
 <br />
