@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width=400 height=390 src="templates/gif3.gif">
 
-<p align="left" style="margin-top: 20px;"> <img src="https://komarev.com/ghpvc/?username=va-rohith&label=Profile%20views&color=blueviolet&style=plastic" width=150 alt="va-rohith" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=va-rohith&label=Profile%20views&color=blueviolet&style=plastic" width=150 alt="va-rohith" /> </p>
 <br />
 
 <div>
