@@ -92,6 +92,7 @@
 <hr />
 
 <h3 align="center">⚡ Stats ⚡</h3>
+<br />
 
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=va-rohith&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -104,8 +105,8 @@
 
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
-  <br>
+  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/va-rohith/va-rohith/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/>
+  <br/>
 </div>
