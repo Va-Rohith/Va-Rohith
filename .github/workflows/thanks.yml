@@ -15,4 +15,3 @@
             user_name: Va-Rohith
             # Text on contribution graph 
             text: THANK U
-       - uses: jasineri/simple-push-action@v1
