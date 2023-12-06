@@ -78,7 +78,7 @@
   ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 </br>
 
-<h3 align="left">Socaial Media I'm activated in</h3>
+<h3 align="left">Socaial Media I'm activate in</h3>
     
    ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
    ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
