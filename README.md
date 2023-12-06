@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohith+Vankayalapati!;" />
 </h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 </br>
 
 <img align="right" alt="Coding" width=400 height=380 src="templates/gif3.gif">
@@ -11,15 +11,15 @@
 
 <div>
  
-- 🧑‍🎓 UG @Computer Science
+- 🧑‍🎓 𝐔𝐆 @𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞
  
-- 👀 <b>Full Stack</b> Enthusiast
+- 👀 𝐈'𝐦 𝐚 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
 
-- 📜 Check out my [profile page](https://linktr.ee/iamrohith)
+- 📜 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 [𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐚𝐠𝐞](https://linktr.ee/iamrohith)
 
-- 💼 Visit my [portfolio](https://rohithv.netlify.app/)
+- 💼 𝐕𝐢𝐬𝐢𝐭 𝐦𝐲 [𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://rohithv.netlify.app/)
 
-- 👨‍💻 Explore my projects [here](https://linktr.ee/rohith.projects)
+- 👨‍💻 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐦𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 [𝐡𝐞𝐫𝐞](https://linktr.ee/rohith.projects)
 
 </div>
 
@@ -55,7 +55,8 @@
 
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) </br>
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white) </br>
   ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
   ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
@@ -77,12 +78,20 @@
   ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 </br>
 
+<h3 align="left">Socaial Media I'm activated in</h3>
+    
+   ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+   ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+   ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) <br />
+   ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+   ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+
 <hr />
 
-
-
-<hr />
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=va-rohith&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
