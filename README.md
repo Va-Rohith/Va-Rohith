@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohith+Vankayalapati;" />
 </h1>
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<!-- <h3 align="center">A passionate software developer from India 🇮🇳</h3> -->
 </br>
 
 <img align="right" alt="Coding" width=400 height=390 src="templates/gif3.gif">
@@ -9,11 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=va-rohith&label=Profile%20views&color=blueviolet&style=plastic" width=150 alt="va-rohith" /> </p>
 <br />
 
-<div>
+<!-- <div>
  
-- 🧑‍🎓 𝐔𝐆 @𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞
- 
-- 👀 𝐈'𝐦 𝐚 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
+- 🧑‍🎓 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞
 
 - 📜 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 [𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐚𝐠𝐞](https://linktr.ee/iamrohith)
 
@@ -21,7 +19,7 @@
 
 - 👨‍💻 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐦𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 [𝐡𝐞𝐫𝐞](https://linktr.ee/rohith.projects)
 
-</div>
+</div> -->
 
 <br />
 
